@@ -1,0 +1,13 @@
+.jetons:hover {
+    cursor: grab;
+}
+
+.jetons {
+    background-color: #1bf85a;
+    font-family: "4";
+}
+
+@font-face {
+    font-family: "4";
+    src: url(Rubik_Doodle_Shadow/RubikDoodleShadow-Regular.ttf);
+}
